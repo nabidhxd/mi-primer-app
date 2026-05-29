@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Mi Toyota Zero App",
+    "slug": "mi-toyota-zero-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/logo_toyota.png",
+    "android": {
+      "package": "com.toyota.zeroapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "85a54707-2293-4869-8172-864a13e782fb"
+      }
+    },
+    "owner": "nabotxd"
+  }
+}
